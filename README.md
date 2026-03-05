@@ -64,7 +64,7 @@
 
 ```bash
 # 1. استنسخ المشروع
-pkg install git -y && git clone https://github.com/YOUR_USERNAME/ytdl-termux.git
+pkg install git -y && git clone https://github.com/ahmed-awad26/ytdl-termux.git
 
 # 2. ادخل للمجلد
 cd ytdl-termux
@@ -80,7 +80,7 @@ bash install.sh
 pkg install curl -y
 
 # تحميل المشروع مضغوط
-curl -L https://github.com/YOUR_USERNAME/ytdl-termux/archive/main.zip -o ytdl.zip
+curl -L https://github.com/ahmed-awad26/ytdl-termux/archive/main.zip -o ytdl.zip
 unzip ytdl.zip
 cd ytdl-termux-main
 bash install.sh
@@ -327,7 +327,7 @@ git push origin feature/my-feature
 
 ```bash
 # 1. Clone the project
-pkg install git -y && git clone https://github.com/YOUR_USERNAME/ytdl-termux.git
+pkg install git -y && git clone https://github.com/ahmed-awad26/ytdl-termux.git
 
 # 2. Enter the folder
 cd ytdl-termux
